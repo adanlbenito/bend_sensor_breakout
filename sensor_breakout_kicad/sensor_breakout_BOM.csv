@@ -1,0 +1,7 @@
+Id,Designator,Package,Quantity,Designation,Supplier,Ref,Link
+1,"C1,C4",C_0603_1608Metric,2,100nF,Digi-key,399-14938-2-ND,https://www.digikey.co.uk/product-detail/en/kemet/C0603C101K8RAC7867/399-14938-2-ND/7382054
+2,"J3,J1,J2",JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal,3,Conn_01x04_Female,Digi-key,455-1751-1-ND,https://www.digikey.co.uk/product-detail/en/jst-sales-america-inc/S4B-PH-SM4-TB-LF-SN/455-1751-1-ND/926848
+3,"C2,C3",C_0603_1608Metric,2,10pF,Digi-key,399-17686-1-ND,https://www.digikey.co.uk/product-detail/en/kemet/CBR06C100J5GAC/399-17686-1-ND/8572686
+4,"R4,R5,R1,R2,R6,R3",R_0603_1608Metric,6,10M,Digi-key,2019-UR73D1JTTD10L0FTR-ND,https://www.digikey.co.uk/product-detail/en/koa-speer-electronics-inc/UR73D1JTTD10L0F/2019-UR73D1JTTD10L0FTR-ND/9845673
+5,U2,TSSOP-8_3x3mm_P0.65mm,1,TLV522,Digi-key,296-46896-1-ND,https://www.digikey.co.uk/product-detail/en/texas-instruments/TLV522DGKR/296-46896-1-ND/7219538
+6,U1,TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm,1,AAT001-10E,Digi-key,"391-1065-1-ND	",https://www.digikey.co.uk/product-detail/en/nve-corp-sensor-products/AAT001-10E/391-1065-1-ND/3594328
